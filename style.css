@@ -1,0 +1,491 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer .footer-bottom .menu-footer {
+    margin-top: 30px;
+}
+
+.footer .footer-bottom .logo-footer {
+    margin-top: 30px;
+}
+
+.footer .footer-bottom .logo-footer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer .footer-bottom .menu-footer li {
+    display: inline-block;
+    float: left;
+    padding: 15px 30px 15px 0;
+}
+
+.footer .footer-bottom .menu-footer ul li a {
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 24px;
+    color: #454545;
+}
+
+.footer .footer-bottom {
+    padding-top: 130px;
+    padding-bottom: 40px;
+}
+
+.footer .footer-bottom .copyright a {
+    color: white;
+    text-transform: capitalize;
+}
+
+.footer .footer-bottom .copyright p {
+    font-size: 12px;
+    line-height: 24px;
+    color: #454545;
+    padding: 15px 0;
+}
+
+.footer input[type="email"] {
+    border: none;
+    margin-top: 15px;
+    background: #212121 !important;
+    color: #5f5b5b !important;
+    padding: 10px 15px;
+    font-size: 12px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    line-height: 12px;
+}
+
+.footer p {
+    color: #999;
+    margin: 30px 0 0;
+    padding: 0;
+}
+
+.footer {
+    display: block;
+    width: 100%;
+    background: #000;
+    padding-top: 40px;
+}
+
+.footer h4 {
+    color: #fff !important;
+    margin-top: 45px;
+    text-transform: uppercase;
+}
+
+.blog-home .article .right {padding-left: 165px;padding-right: 150px;}
+
+.blog-home .article h5 {
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+.blog-home .article p {
+    margin: 40px 0 0;
+    padding: 0;
+    color: #454545;
+}
+
+.blog-home .article a {
+    display: inline-block;
+    background: #454545;
+    font-size: 12px;
+    line-height: 12px;
+    padding: 14px 25px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 30px;
+    text-decoration: none;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+.blog-home .article .left {
+    padding-left: 30px;
+    padding-right: 250px;
+}
+
+.blog-home {
+    padding-bottom: 150px;
+}
+
+.blog-home .article {
+    margin-top: 80px;
+}
+
+.item {
+    display: block;
+    width: 20%;
+    float: left;
+    padding: 0 15px;
+}
+
+.gift-registry {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 300px;
+}
+
+.twitter-feed {
+    margin-top: 100px;
+    background: url(images/bg-2-2.jpg) no-repeat;
+    width: 100%;
+    display: block;
+    padding: 200px 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left top;
+}
+
+.people .album h5 {
+    margin-top: 35px;
+    text-transform: uppercase;
+}
+
+.people .album {
+    display: block;
+    overflow: hidden;
+    margin-top: 80px;
+    position: relative;
+}
+
+.about-home .info-container  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-home .info-panel h5 {
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.about-home .info-panel p {margin: 40px 0 0;color: #454545;}
+
+.about-home .info-panel {
+    padding-top: 50px;
+}
+
+.about-home .info-container .col-sm-4.info.left {
+    text-align: right;
+}
+
+.about-home .row.info-container {
+    margin-top: 40px;
+}
+
+.about-home .info-container .info {
+    padding: 0 60px;
+}
+
+img.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 100%;
+}
+
+.gallery-home a {
+    text-decoration: none;
+    display: block;
+    position: relative;
+    width: 16.66666666666667%;
+    float: left;
+    cursor: crosshair;
+}
+
+a.double {
+    width: 33.33333333%;
+}
+
+.gallery-home {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.wedding {
+    padding-top: 75px;
+}
+
+.wedding ul.countdown {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 30px 0 0;
+}
+
+.wedding ul.countdown li {
+    float: left;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.wedding ul.countdown li span {
+    width: 70px;
+    height: 90px;
+    display: block;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 90px;
+    color: #000;
+    border: 2px solid #ebebeb;
+}
+
+.wedding ul.countdown li p {
+    text-transform: uppercase;
+    margin: 15px 0 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.wedding h5 {
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+h5 {
+    font-size: 14px !important;
+    line-height: 14px !important;
+}
+
+h2 {
+    font-size: 30px !important;
+    line-height: 30px !important;
+}
+
+.wedding h2 {
+    text-transform: uppercase;
+}
+
+.category-header h4 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.category-header {
+    text-align: center;
+    padding-top: 120px;
+}
+
+.container:before {
+    content: "";
+    display: table;
+}
+
+.wedding-dates {
+    width: 100%;
+    display: block;
+    background-position: center 50px !important;
+    background-size: cover !important;
+    padding-bottom: 100px !important;
+    background: url(images/bg-1.jpg) no-repeat;
+}
+
+.video-section .video-video iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+
+.fluid-width-video-wraper {
+    position: relative;
+    width: 100%;
+    padding: 0;
+}
+
+.video-section {
+    padding-top: 25px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Montserrat' !important;
+    font-weight: 700 !important;
+    font-style: normal;
+    color: #000 !important;
+}
+
+h4 {
+    font-size: 18px !important;
+    line-height: 18px !important;
+}
+
+.realeases.videos h4 {
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.video-section .videos h4 {
+    margin-top: 35px;
+    text-transform: uppercase;
+}
+
+.video-section .video-video {
+    margin-top: 35px;
+}
+
+.header-parallax-image .featured-content p {
+    font-size: 24px;
+    color: #f2f2f2;
+    line-height: 24px;
+    text-shadow: 2px 2px #292929;
+    padding: 100px 0 20px;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+.header-parallax-image {
+    display: block;
+    width: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    background: #ffffe5 url(images/parallax-bg-1-1.jpg);
+}
+
+.header-parallax-image .featured-content h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    color: #f2f2f2 !important;
+    letter-spacing: -3px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    color: #000;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.wedding p.location {
+    font-weight: 700;
+    margin: 15px 0 0;
+    color: #000;
+}
+
+a,span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.footer button {
+    background: #5f5b5b;
+    border: none;
+    margin-top: 15px;
+    height: 40px;
+    display: inline-block;
+    padding: 0 20px;
+    border-radius: 20px;
+}
+
+.footer .clear button i {
+    display: block;
+    float: left;
+    font-size: 20px;
+    line-height: 40px;
+    color: #fff;
+}
+
+.footer .clear button span {
+    display: inline-block;
+    font-family: 'Montserrat';
+    font-size: 12px;
+    line-height: 40px;
+    color: #fff;
+    padding-left: 8px;
+    overflow: hidden;
+}
+
+.navigation-bar ul li.nav-item.active a {
+    color: #999 !important;
+}
+
+.navigation-bar ul li.nav-item a {
+    text-transform: uppercase;
+    color: #000 !important;
+    font-size: 14px;
+    line-height: 54px;
+    padding: 0 15px;
+}
+
+ul.navbar-nav.float-sm-right {
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+a.navbar-brand.logo-container {
+    text-decoration: none;
+}
+
+a.navbar-brand.logo-container span {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 54px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.navigation-bar {
+    display: block;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+}
+
+.navigation-bar.change {
+    background: #fff;
+    padding: 10px 0;
+    box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.05);
+}
+
+.header-parallax-image .featured-content span {
+    color: #f2f2f2;
+    font-size: 24px;
+    line-height: 24px;
+    text-shadow: 2px 2px #292929;
+    margin: 15px auto;
+    display: block;
+}
